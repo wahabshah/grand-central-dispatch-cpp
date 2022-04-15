@@ -6,6 +6,7 @@
 * https://www.debian.org/releases/
 * https://github.com/apple/swift-corelibs-libdispatch/blob/34f383d34450d47dd5bdfdf675fcdaa0d0ec8031/dispatch/dispatch.h
 * https://github.com/apple/swift-corelibs-libdispatch/blob/34f383d34450d47dd5bdfdf675fcdaa0d0ec8031/tests/dispatch_io_pipe.c
+* https://medium.com/siliconwat/how-javascript-async-await-works-3cab4b7d21da
 
 ```sh
 .
