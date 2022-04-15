@@ -1,5 +1,5 @@
 # [Choice] Debian version: buster, stretch
-ARG VARIANT="bookworm"
+ARG VARIANT="sid"
 FROM buildpack-deps:${VARIANT}-curl
 
 # [Option] Install zsh
