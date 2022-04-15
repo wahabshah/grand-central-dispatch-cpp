@@ -1,3 +1,7 @@
+# Motivation
+
+<a href="https://gitpod.io/#https://github.com/wahabshah/grand-central-dispatch-cpp" rel="nofollow noopener noreferrer" target="_blank" class="after:hidden"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod"></a>
+
 # Grand Central Dispatch
 
 * https://github.com/microsoft/vscode-dev-containers/issues/544
