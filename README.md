@@ -2,7 +2,7 @@
 
 <a href="https://gitpod.io/#https://github.com/wahabshah/grand-central-dispatch-cpp" rel="nofollow noopener noreferrer" target="_blank" class="after:hidden"><img src="https://gitpod.io/button/open-in-gitpod.svg" alt="Open in Gitpod"></a>
  
-* This repository contains the `Task System` proposed by Sean Pean using Apple `Grand Central Dispatch` in [NDC Talk](https://youtu.be/zULU6Hhp42w?t=2420) :-
+* This repository contains the `Task System` proposed by Sean Pean using Apple [`Grand Central Dispatch`](https://apple.github.io/swift-corelibs-libdispatch/) in [NDC Talk](https://youtu.be/zULU6Hhp42w?t=2420) :-
   
   ![image](https://user-images.githubusercontent.com/8818025/163668770-c22557d2-93bc-4b6b-ae59-4b5f328a5c5c.png)
 * `Grand Central Disptach` performs good as it uses `Task Stealing` algorithm :-
