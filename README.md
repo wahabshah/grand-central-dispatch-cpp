@@ -14,6 +14,7 @@
 * https://developer.apple.com/documentation/DISPATCH
 * https://github.com/apple/swift-corelibs-libdispatch/blob/34f383d34450d47dd5bdfdf675fcdaa0d0ec8031/dispatch/dispatch.h
 * https://github.com/apple/swift-corelibs-libdispatch/blob/34f383d34450d47dd5bdfdf675fcdaa0d0ec8031/tests/dispatch_io_pipe.c
+* https://sean-parent.stlab.cc/presentations/2013-09-11-cpp-seasoning/cpp-seasoning.pdf
 * https://www.promisejs.org/generators/
 * https://docs.microsoft.com/en-us/archive/msdn-magazine/2017/october/c-from-algorithms-to-coroutines-in-c
 * https://medium.com/siliconwat/how-javascript-async-await-works-3cab4b7d21da
