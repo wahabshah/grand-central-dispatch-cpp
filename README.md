@@ -14,6 +14,7 @@
 * https://developer.apple.com/documentation/DISPATCH
 * https://github.com/apple/swift-corelibs-libdispatch/blob/34f383d34450d47dd5bdfdf675fcdaa0d0ec8031/dispatch/dispatch.h
 * https://github.com/apple/swift-corelibs-libdispatch/blob/34f383d34450d47dd5bdfdf675fcdaa0d0ec8031/tests/dispatch_io_pipe.c
+* https://www.promisejs.org/generators/
 * https://github.com/microsoft/vscode-dev-containers/issues/544
 * https://github.com/microsoft/vscode-dev-containers/blob/main/script-library/docs/common.md
 * https://www.debian.org/releases/
